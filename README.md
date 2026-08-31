@@ -5,9 +5,10 @@
   <p>Создаю современные, адаптивные и крутые интерфейсы с помощью HTML, CSS и JavaScript</p>
 </div>
 
+![Visitors](https://komarev.com/ghpvc/?username=Agutin-sys&label=👁️+Visitors&style=for-the-badge&color=0891b2)
 ---
 
-### 🧑‍💻 Обо мне
+###  Обо мне
 
 -  Живу в **Волгограде**
 -  Связаться со мной: [communicationc647@gmail.com](mailto:communicationc647@gmail.com)
@@ -41,7 +42,7 @@
 
 ---
 
-### 🌐 Социальные сети
+###  Социальные сети
 
 <div align="left">
   <a href="https://www.github.com/Agutin-sys" target="_blank">
