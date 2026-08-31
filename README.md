@@ -4,8 +4,9 @@
   <h3> Frontend Junior разработчик</h3>
   <p>Создаю современные, адаптивные и крутые интерфейсы с помощью HTML, CSS и JavaScript</p>
 </div>
-
-![Visitors](https://komarev.com/ghpvc/?username=Agutin-sys&label=👁️+Visitors&style=for-the-badge&color=0891b2)
+<div align="center">
+![Visitors](https://komarev.com/ghpvc/?username=Agutin-sys&label=+Visitors&style=for-the-badge&color=0891b2)
+</div>
 ---
 
 ###  Обо мне
