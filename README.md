@@ -1,22 +1,22 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" />
-  <h1>Привет! Я Кирилл 👋</h1>
-  <h3>🚀 Frontend Junior разработчик</h3>
+  <h1>Привет! Я Кирилл </h1>
+  <h3> Frontend Junior разработчик</h3>
   <p>Создаю современные, адаптивные и крутые интерфейсы с помощью HTML, CSS и JavaScript</p>
 </div>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Agutin-sys&label=Visitors&countColor=%23263759)
+
 ---
 
 ### 🧑‍💻 Обо мне
 
-- 🌍 Живу в **Волгограде**
-- 📫 Связаться со мной: [communicationc647@gmail.com](mailto:communicationc647@gmail.com)
-- 🎨 Увлекаюсь **спортом** и **рисованием**
-- ⚡ Цель: создавать удобные и визуально привлекательные веб-приложения
+-  Живу в **Волгограде**
+-  Связаться со мной: [communicationc647@gmail.com](mailto:communicationc647@gmail.com)
+-  Увлекаюсь **спортом** и **рисованием**
+-  Цель: создавать удобные и визуально привлекательные веб-приложения
 
 ---
 
-### 🛠️ Мой стек технологий
+###  Мой стек технологий
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" title="HTML5" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Статистика
+###  Статистика
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agutin-sys&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Мой%20стек%20(по%20частоте%20использования)" alt="Top Languages" />
