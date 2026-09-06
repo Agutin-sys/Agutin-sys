@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Agutin-sys&label=👁️+Visitors&style=for-the-badge&color=0891b2" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Agutin-sys&style=for-the-badge&color=0891b2" alt="visitors" />
 </p>
 ---
 
