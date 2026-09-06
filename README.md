@@ -50,7 +50,7 @@
 
  
 <p align="center">
-  <a href="https://t.me/@Baffi123534">
+  <a href="https://t.me/Baffi123534">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/Agutin-sys">
