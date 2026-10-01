@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" />
-  <h1>Привет! Я Кирилл </h1>
+  <h1>Привет! </h1>
   <h3> Frontend Junior разработчик</h3>
   <p>Создаю современные, адаптивные и крутые интерфейсы с помощью HTML, CSS и JavaScript</p>
 </div>
@@ -12,7 +12,7 @@
 
 ###  Обо мне
 
--  Живу в **Волгограде**
+
 -  Связаться со мной: [communicationc647@gmail.com](mailto:communicationc647@gmail.com)
 -  Увлекаюсь **спортом** и **рисованием**
 -  Цель: создавать удобные и визуально привлекательные веб-приложения
